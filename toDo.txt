@@ -1,0 +1,2 @@
+Create a addition guessing game
+->create a function that generate random number
